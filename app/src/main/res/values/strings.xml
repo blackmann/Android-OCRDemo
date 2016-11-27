@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OCR</string>
+    <string name="no_result">No text was found. Am happy</string>
+</resources>
